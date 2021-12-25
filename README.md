@@ -1,1 +1,1 @@
-# rsschool-cv
+https://cdake.github.io/rsschool-cv/cv
